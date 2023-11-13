@@ -13,7 +13,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1IMW5cfDR76ekFnw7toczXXGeJyTIWgPq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/ahmad-yakubu-ahmad-miaeng-gmnse-41520b121/",
   twitter: "https://twitter.com/ahmadyakubuaya",
-  insta: "https://www.instagram.com/aya2685/",
+  instagram: "https://www.instagram.com/aya2685/",
   facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/",
   showcase: "https://www.showwcase.com/engraya",
 };
@@ -680,7 +680,7 @@ export const certificates = [
 
 ];
 
-export const techSkills = [
+export const softSkills = [
 
   {
     id: 0,

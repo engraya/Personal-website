@@ -3,6 +3,9 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+import MailOutlineRounded from '@mui/icons-material/MailOutlineRounded';
+import GitHubIcon from '@mui/icons-material/GitHub';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -29,6 +32,14 @@ const Logo = styled.h1`
   font-weight: 600;
   font-size: 20px;
   color: ${({ theme }) => theme.primary};
+`;
+
+
+
+const sUBLogo = styled.h2`
+  font-weight: 300;
+  font-size: 15px;
+  color: ${({ teme }) => theme.primary};
 `;
 
 const Nav = styled.nav`
@@ -89,19 +100,24 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Ahmad Yakubu Ahmad</Logo>
+        <subLogo>engrahmadaya@gmail.com</subLogo>
+        <subLogo>+2348149087802</subLogo>
         <Nav>
+          <NavLink href="/">Home</NavLink>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>
           <NavLink href="#education">Education</NavLink>
-          <NavLink href="#education">Certifications</NavLink>
+          <NavLink href="#certifications">Certifications</NavLink>
+          <NavLink href="#memberships">Memberships</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.instagram} target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2023 engrahmadaya. All rights reserved.

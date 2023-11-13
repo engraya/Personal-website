@@ -118,7 +118,7 @@ const MemebershipCard = ({ membership }) => {
                 <Body>
                     <Role>{membership.membershipTitle}</Role>
                     <Company>{membership.membershipBody}</Company>
-                    <Date>{membership.membershipID}</Date>
+                    <Date><span>Membership ID : </span>{membership.membershipID}</Date>
                     <Date>{membership.date}</Date>
                 </Body>
             </Top>

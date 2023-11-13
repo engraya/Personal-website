@@ -17,11 +17,11 @@ const Button = styled.button`
 `
 const Card = styled.div`
     width: 330px;
-    height: 490px;
+    height: 350px;
     background-color: ${({ theme }) => theme.card};
     cursor: pointer;
     border-radius: 10px;
-    box-shadow: 0 0 12px 4px rgba(0,0,0,0.4);
+    box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.469);;
     overflow: hidden;
     padding: 26px 20px;
     display: flex;
@@ -46,23 +46,6 @@ const Image = styled.img`
     box-shadow: 0 0 16px 2px rgba(0,0,0,0.3);
 `
 
-const Tags = styled.div`
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 4px;
-`
-
-const Tag = styled.span`
-    font-size: 12px;
-    font-weight: 400;
-    color: ${({ theme }) => theme.primary};
-    background-color: ${({ theme }) => theme.primary + 15};
-    padding: 2px 8px;
-    border-radius: 10px;
-`
 
 const Details = styled.div`
     width: 100%;
@@ -107,19 +90,10 @@ const Description = styled.div`
     text-overflow: ellipsis;
 `
 
-const Avatar = styled.img`
-    width: 38px;
-    height: 38px;
-    border-radius: 50%;
-    margin-left: -10px;
-    background-color: ${({ theme }) => theme.white};
-    box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    border: 3px solid ${({ theme }) => theme.card};
-`
 
 const CertificateCards = ({certificate,setOpenModal}) => {
     return (
-        <Card onClick={() => setOpenModal({state: true, project: project})}>
+        <Card onClick={() => setOpenModal({state: true, certificate: certificate})}>
             <Image src={certificate.image}/>
             <Details>
                 <Title>{certificate.title}</Title>

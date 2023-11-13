@@ -7,20 +7,22 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
 import Skills from "./components/Skills";
+import SoftSkills from "./components/SoftSkills" 
 import Projects from "./components/Projects";
 import Certifications from "./components/Certifications";
-import CertificsteDetails from "./components/CertificateDetails";
+import CertificateDetails from "./components/CertificateDetails";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
+import Membership from "./components/Memberships" 
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
-  overflow-x: hidden;
+  overflow-x: hidden
 `
 
 const Wrapper = styled.div`
@@ -40,12 +42,14 @@ function App() {
           <HeroSection />
           <Wrapper>
             <Skills />
+            <SoftSkills />
             <Experience />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Certifications openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
+            <Membership />
             <Contact />
           </Wrapper>
           <Footer />

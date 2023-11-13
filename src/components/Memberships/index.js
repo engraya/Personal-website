@@ -76,7 +76,7 @@ const TimelineSection = styled.div`
 
 const index = () => {
     return (
-        <Container id="membership">
+        <Container id="memberships">
             <Wrapper>
                 <Title>Memberships</Title>
                 <TimelineSection>

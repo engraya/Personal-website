@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { skills } from '../../data/constants'
- 
+import { softSkills } from '../../data/constants'
 
 const Container = styled.div`
 display: flex;
@@ -38,15 +37,6 @@ margin-top: 12px;
   }
 `;
 
-export const Desc = styled.div`
-    font-size: 18px;
-    text-align: center;
-    max-width: 600px;
-    color: ${({ theme }) => theme.text_secondary};
-    @media (max-width: 768px) {
-        font-size: 16px;
-    }
-`;
 
 const SkillsContainer = styled.div`
   width: 100%;
@@ -59,7 +49,6 @@ const SkillsContainer = styled.div`
 
 const Skill = styled.div`
   width: 100%;
-  max-width: 500px;
   background: ${({ theme }) => theme.card};
   border: 0.1px solid #854CE6;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
@@ -78,11 +67,13 @@ const Skill = styled.div`
 `
 
 const SkillTitle = styled.h2`
-  font-size: 28px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 300;
   color: ${({ theme }) => theme.text_secondary};
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   text-align: center;
+  
+  
 `
 
 const SkillList = styled.div`
@@ -114,35 +105,20 @@ const SkillItem = styled.div`
   }
 `
 
-const SkillImage = styled.img`
-  width: 24px;
-  height: 24px;
-`
 
 
 const Skills = () => {
   return (
     <Container id="skills">
       <Wrapper>
-        <Title>Tech Stack</Title>
-            <SkillsContainer>
-          {skills.map((skill) => (
-            <Skill>
-              <SkillTitle>{skill.title}</SkillTitle>
-              <SkillList>
-                {skill.skills.map((item) => (
-                  <SkillItem>
-                    <SkillImage src={item.image}/>
-                    {item.name}
-                  </SkillItem>
-                ))}
-              </SkillList>
-            </Skill>
+        <Title>Soft Skills</Title>
+       <Skill>
+          {softSkills.map((skill) => (
+            <SkillTitle><ul><li>{skill.title}</li></ul> </SkillTitle>
           ))}
-
-        </SkillsContainer>
+         </Skill>
       </Wrapper>
-     </Container>
+    </Container>
   )
 }
 
