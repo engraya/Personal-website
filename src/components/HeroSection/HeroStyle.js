@@ -181,7 +181,7 @@ export const ResumeButton = styled.a`
     font-size: 20px;
     font-weight: 600;
     transition: all 0.2s ease-in-out !important;
-    background: hsla(182, 74%, 70%, 0.469);
+    background:  hsla(182, 74%, 70%, 1);
     background: linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(182, 74%, 70%, 0.469); 100%);
     background: -moz-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(182, 74%, 70%, 0.469); 100%);
     background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(182, 74%, 70%, 0.469);

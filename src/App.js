@@ -26,7 +26,7 @@ const Body = styled.div`
 `
 
 const Wrapper = styled.div`
-  background: linear-gradient(38.73deg, rgba(139, 234, 247, 1) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
+  background: linear-gradient(38.73deg, rgba(54, 125, 134 ) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
   width: 100%;
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
