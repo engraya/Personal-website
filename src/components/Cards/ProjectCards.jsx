@@ -21,7 +21,7 @@ const Card = styled.div`
     background-color: ${({ theme }) => theme.card};
     cursor: pointer;
     border-radius: 10px;
-    box-shadow: 0 0 12px 4px rgba(0,0,0,0.4);
+    box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.469);
     overflow: hidden;
     padding: 26px 20px;
     display: flex;
@@ -58,7 +58,7 @@ const Tags = styled.div`
 const Tag = styled.span`
     font-size: 12px;
     font-weight: 400;
-    color: ${({ theme }) => theme.primary};
+    color:   box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.7);
     background-color: ${({ theme }) => theme.primary + 15};
     padding: 2px 8px;
     border-radius: 10px;

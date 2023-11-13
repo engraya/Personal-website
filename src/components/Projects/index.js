@@ -24,11 +24,11 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APPLICATIONS</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
+          {/* {toggle === 'machine learning' ?
             <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>AI/MACHINE LEARNING</ToggleButton>
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>AI/MACHINE LEARNING</ToggleButton>
-          }
+          } */}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects

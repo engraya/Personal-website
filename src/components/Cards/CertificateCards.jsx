@@ -21,7 +21,7 @@ const Card = styled.div`
     background-color: ${({ theme }) => theme.card};
     cursor: pointer;
     border-radius: 10px;
-    box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.469);;
+    box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.469);
     overflow: hidden;
     padding: 26px 20px;
     display: flex;
