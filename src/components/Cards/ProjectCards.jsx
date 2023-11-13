@@ -58,7 +58,7 @@ const Tags = styled.div`
 const Tag = styled.span`
     font-size: 12px;
     font-weight: 400;
-    color:   box-shadow: 0 0 10px 2px hsla(182, 74%, 70%, 0.7);
+    color: hsla(182, 74%, 70%, 0.7);
     background-color: ${({ theme }) => theme.primary + 15};
     padding: 2px 8px;
     border-radius: 10px;
