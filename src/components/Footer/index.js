@@ -39,7 +39,7 @@ const Logo = styled.h1`
 const sUBLogo = styled.h2`
   font-weight: 300;
   font-size: 15px;
-  color: ${({ teme }) => theme.primary};
+  color: ${({ theme }) => theme.primary};
 `;
 
 const Nav = styled.nav`
