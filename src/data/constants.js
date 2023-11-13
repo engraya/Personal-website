@@ -218,7 +218,7 @@ export const experiences = [
   {
     id: 0,
     role: "Freelancer",
-    company: "Neurobit",
+    company: "",
     date: "August 2022 - Present",
     desc: "As a seasoned full-stack web developer, I operate as a dedicated freelancer, providing comprehensive solutions to clients seeking innovative and functional web applications. With a strong foundation in both frontend and backend technologies, I excel in designing and implementing dynamic, user-centric websites and applications tailored to meet the unique needs of diverse industries. My expertise encompasses the entire development life cycle, from conceptualization and architecture to deployment and maintenance. I am committed to delivering high-quality code, responsive designs, and seamless user experiences. Adaptable and client-focused, I collaborate closely with stakeholders to translate their vision into a digital reality. ",
   },

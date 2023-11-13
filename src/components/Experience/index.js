@@ -79,16 +79,13 @@ const index = () => {
         <Container id="experience">
             <Wrapper>
                 <Title>Experience</Title>
-                <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
-                </Desc>
                 <TimelineSection>
                     <Timeline>
                         {experiences.map((experience,index) => (
                             <TimelineItem>
                                 <TimelineSeparator>
                                     <TimelineDot variant="outlined" color="secondary" />
-                                    {index !== experiences.length - 1 && <TimelineConnector style={{ background: '#854CE6' }} />}
+                                    {index !== experiences.length - 1 && <TimelineConnector style={{ background: '#61d6e6' }} />}
                                 </TimelineSeparator>
                                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                                     <ExperienceCard experience={experience}/>
