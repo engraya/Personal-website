@@ -50,7 +50,7 @@ const SkillsContainer = styled.div`
 const Skill = styled.div`
   width: 100%;
   background: ${({ theme }) => theme.card};
-  border: 0.1px solid #854CE6;
+  border: 0.1px solid #61d6e6;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
   padding: 18px 36px;
