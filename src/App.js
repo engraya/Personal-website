@@ -56,9 +56,7 @@ function App() {
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
-          {openModal.state &&
-            <CertificateDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+     
         </Body>
       </Router>
     </ThemeProvider>
