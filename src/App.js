@@ -32,7 +32,8 @@ const Wrapper = styled.div`
 `
 function App() {
   const [darkMode, setDarkMode] = useState(true);
-  const [openModal, setOpenModal] = useState({ state: false, project: null });
+  const [openModal, setOpenModal] = useState({ state: false, project: null, certificate:null });
+
   console.log(openModal)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
@@ -55,6 +56,9 @@ function App() {
           <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
+          }
+          {openModal.state &&
+            <CertificateDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
      
         </Body>
