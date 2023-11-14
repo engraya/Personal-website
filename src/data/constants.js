@@ -319,7 +319,7 @@ export const projects = [
     description:
       "A comprehensive webapp that fosters efficiency, organization, and goal achievement. Its impact extends beyond the digital realm, positively influencing users' personal and professional lives by instilling discipline, reducing stress, and enhancing overall productivity. This application provides users with a systematic way to list, prioritize, and track their tasks, offering several key benefits:",
     image:
-      "https://drive.google.com/file/d/1p0R7fWtyQNbIHZukTSv_Y5eARtV57AUm/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(248).png?alt=media&token=212b0105-6da2-458c-b79f-60e386460946",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Django-ToDoApp-Project",
