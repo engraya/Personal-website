@@ -12,7 +12,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <FaLaptopCode size="3rem" /> <Span>engraya</Span>
+            <FaLaptopCode size="3rem" /> <Span>engr_aya</Span>
           </a>
         </NavLogo>
         <MobileIcon>

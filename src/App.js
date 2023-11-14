@@ -32,7 +32,7 @@ const Wrapper = styled.div`
 `
 function App() {
   const [darkMode, setDarkMode] = useState(true);
-  const [openModal, setOpenModal] = useState({ state: false, project: null, certificate:null });
+  const [openModal, setOpenModal] = useState({ state: false, project: null});
 
   console.log(openModal)
   return (
@@ -57,9 +57,7 @@ function App() {
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
-          {openModal.state &&
-            <CertificateDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+  
      
         </Body>
       </Router>
