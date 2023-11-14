@@ -10,7 +10,7 @@ export const Bio = {
     "I am a highly skilled and motivated individual with a solid analytical and knowledge of engineering practices, enthusiastic, multitasker with exceptional skills, and function well in high-pressure work environments. I have a proven track record of delivering quality work and building solid relationships with clients. My adaptability, problem-solving skills, and ability to work effectively in various environments make me an asset to any team looking to build or improve their software products.",
   github: "https://github.com/engraya",
   resume:
-    "https://drive.google.com/file/d/1IMW5cfDR76ekFnw7toczXXGeJyTIWgPq/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zJ1jzyYfilHAckEbm1SiwWZ6_BwwCBIm/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/ahmad-yakubu-ahmad-miaeng-gmnse-41520b121/",
   twitter: "https://twitter.com/ahmadyakubuaya",
   instagram: "https://www.instagram.com/aya2685/",
