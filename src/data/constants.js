@@ -235,7 +235,7 @@ export const experiences = [
     company: "GAO Tek Inc. USA",
     date: "August 2022 - March 2023",
     desc: "As a Human Resource Intern (Remote), my primary responsibilities included managing applicant communication, screening responses, and coordinating interview schedules with senior HR staff. I was actively involved in the recruitment process by posting job advertisements on various platforms, including general career websites, university and college career portals, as well as internship websites. I played a role in building and maintaining relationships with educational institutions that offered internship programs. Additionally, I conducted interviews as part of the selection process. In addition to these core duties, I handled various other tasks within the HR domain to contribute to the overall functioning of the department.",
-    doc: "https://drive.google.com/file/d/102Q2Y1XIHMUya0xjq7e0W3U8FUucJhVF/view?usp=drive_link",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/CERTIFICATE%20OF%20TRAINING%20ON%20HUMAN%20RESOURCES-1_1.png?alt=media&token=f0dfe0e2-f2d8-4b9b-aa40-b42ee3030ea6",
   },
   {
     id: 3,
@@ -284,7 +284,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://campusflava.com/wp-content/uploads/2019/07/ATBU-logo.jpeg",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/atbu.png?alt=media&token=74d9ca39-c1be-4b24-a2cf-2cf623f81235",
     school: "Abubakar Tafawa Balewa University",
     date: "February 2016 - November 2021",
     grade: "4.16 CGPA",
@@ -293,7 +293,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1R5yuZmXJYfgdbis0K9qMkzBmRsO0B2f6/view?usp=drive_link",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/ntic.jpg?alt=media&token=0fcbbc28-103b-4d74-af7e-ed0059092e76",
     school: "Nigerian Turkish International Colleges",
     date: "September 2013 - July 2015",
     grade: "80.7%",
@@ -302,7 +302,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://drive.google.com/file/d/1R5yuZmXJYfgdbis0K9qMkzBmRsO0B2f6/view?usp=drive_link",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/ntic.jpg?alt=media&token=0fcbbc28-103b-4d74-af7e-ed0059092e76",
     school: "Nigerian Turkish International Colleges",
     date: "September 2009 - July 2015",
     grade: "80.7%",
@@ -331,7 +331,7 @@ export const projects = [
     description:
       "Dynamic Operations From basic arithmetic to more complex mathematical operations, our web calculator is equipped to handle a variety of calculations with ease.",
     image:
-      "https://drive.google.com/file/d/18vKs7UnifAPooOZ8L3nBKYaqwCtxX9TU/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(533).png?alt=media&token=68e027a3-8938-43ae-a141-2b80f9b7c5e5",
     tags:  ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/engraya/My-Web-Calculator",
@@ -343,7 +343,7 @@ export const projects = [
     description:
       "Explore the beauty of language with our Interactive Dictionary Web App! This project, powered by Django, is a culmination of a passion for words and the seamless elegance of web development. Designed for both language enthusiasts and casual users, our dictionary offers a user-friendly interface and a wealth of features",
     image:
-      "https://drive.google.com/file/d/1yeJlK145bJq4pSXdm8UtZyKC5UkNkzA1/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/dictionary.png?alt=media&token=dc7bdab8-7aaf-499e-b13f-b2d084b5b777",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/mySimple-web_Dictionary",
@@ -355,7 +355,7 @@ export const projects = [
     description:
       "A cutting-edge web application that seamlessly integrates the robust Iterface with four powerful API functionalities, designed to enhance user experience and streamline data management.",
     image:
-      "https://drive.google.com/file/d/1xH8_eVIMsfSPWWLrr-qhRYT-O9cpDMuj/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/grand.png?alt=media&token=e2ef3b9d-1948-4667-ac58-25c2f743926e",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Grand_API_webApp",
@@ -367,7 +367,7 @@ export const projects = [
     description:
       "Ever been unsure about the validity of an email address? Fret no more! Our Email Validator App is here to streamline the process. Built on the robust Django framework, this web application effortlessly verifies the authenticity of email addresses, ensuring that your communication channels remain clean and efficient.",
     image:
-      "https://drive.google.com/file/d/1SPT9Lf_LpnkOGTWZobrd5q3LCoi4Vs4w/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/validate.png?alt=media&token=134c1991-9220-42a5-a799-5f76ecf7d46a",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Validate-my_Email",
@@ -379,7 +379,7 @@ export const projects = [
     description:
       "Welcome to Mandera Mart Ecommerce, an exquisite online shopping experience meticulously crafted with the power of Django. Our e-commerce platform seamlessly blends sophistication with user-friendly functionality, providing a delightful journey for both shoppers and merchants alike.",
     image:
-      "https://drive.google.com/file/d/1-Tyfeb6nB7dK3pvrTZiKnoIL2NYgLRZO/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/mandera.png?alt=media&token=0ae3fe45-ddbf-4f37-bbce-aeea1a309ec3",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Mandera-Mart-Ecommerce-Project",
@@ -391,7 +391,7 @@ export const projects = [
     description:
       "Embark on a visual journey through the enchanting landscapes, vibrant cultures, and diverse traditions of West Africa with our meticulously crafted Travel Gallery App. Powered by Django, this project is a testament to the beauty and richness of the region.",
     image:
-      "https://drive.google.com/file/d/1SRhLroisIJDOLK9A9U-a79axvrAnQccB/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/gallery.png?alt=media&token=a1b99834-f8b1-4d07-99a9-a429df269112",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/West-Africa-Travel-Gallery",
@@ -403,7 +403,7 @@ export const projects = [
     description:
       "web smartBot is a cutting-edge Django-powered smart bot application designed to make your life easier and more efficient. This innovative virtual assistant combines powerful AI capabilities with a sleek and user-friendly interface, providing a seamless experience for users",
     image:
-      "https://drive.google.com/file/d/1BZZQcQ8YmxXWUXyHpdAHoAJwQSIvaQ11/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/websmart.png?alt=media&token=e5914a29-968a-4021-ad08-bdddc9ccd37b",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/webSmart-Bot",
@@ -415,7 +415,7 @@ export const projects = [
     description:
       "A Django based App, Embark on a journey around the world with WeatherWise, a sophisticated Django-based weather application that brings you real-time weather updates for cities across the globe right to your inbox.",
     image:
-      "https://drive.google.com/file/d/14C7yq9xlf4OrcJ63o0QEtSX0TKA5YD3k/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/weather.png?alt=media&token=2d03ba94-02e8-49aa-8615-d74bc5265745",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/World_Cities-Weather-Application",
@@ -427,7 +427,7 @@ export const projects = [
     description:
       "Introducing PhotoStore, a sleek and intuitive photo management solution built on the Django framework. This project is designed to provide a seamless experience for users to showcase and organize their photo collections effortlessly.",
     image:
-      "https://drive.google.com/file/d/1MVoQic_6hmBFzL5IYcHmV7J1ZT8Oz_08/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/photostore.png?alt=media&token=b9cd2299-1e0f-4697-85ce-f54a852143ae",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Photo-Store",
@@ -439,7 +439,7 @@ export const projects = [
     description:
       "Experience seamless control over your fleet with our Driver Management System App built on Django. This robust application empowers you to efficiently manage and monitor your drivers, ensuring optimal performance and safety.",
     image:
-      "https://drive.google.com/file/d/1Qp8gonABSr6JrWV2FsffxD0hfH2uyr2b/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/drivers.png?alt=media&token=bed60ba8-33fc-46bf-b987-6202c3a47840",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Drivers-Management-System",
@@ -451,7 +451,7 @@ export const projects = [
     description:
       "Elevate your productivity with the Django Todo List Pro, a feature-rich task management application designed to streamline your daily workflow. This polished and intuitive app, built on the Django framework, combines a clean user interface with powerful functionalities to help you stay organized and focused.",
     image:
-      "https://drive.google.com/file/d/1dT1kSToup4WScHKOmUOydEJ_lXLbESSw/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/todopro.png?alt=media&token=4b0b0679-b8e1-47fe-bd66-2a0de4d1dfcb",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Todo-List-Pro",
@@ -463,7 +463,7 @@ export const projects = [
     description:
       "Embark on a thrilling gaming experience with Web4Games, a dynamic web application that brings the excitement of [briefly describe the genre or main theme of the game] to your fingertips. Developed using Django, this project seamlessly combines a captivating user interface with robust functionality to deliver a gaming adventure like no other.",
     image:
-      "https://drive.google.com/file/d/1RYwu2TQzZF77F_b9c3Im0HfhssIlI1z3/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/games.png?alt=media&token=a2892310-1fc8-453c-879d-4d6ae0d947c6",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Web4Games",
@@ -475,7 +475,7 @@ export const projects = [
     description:
       "Experience the future of online interaction with our cutting-edge Real-Time Video Hub. This Django-powered web application brings seamless video streaming to your fingertips, providing a dynamic and interactive experience for users.",
     image:
-      "https://drive.google.com/file/d/15lRab97Ph4RP-EdcVqXjj72IzQiwwJM6/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/visage.png?alt=media&token=31030d29-363a-4a59-a5ad-a69230c2c91f",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: " https://github.com/engraya/Visage",
@@ -487,7 +487,7 @@ export const projects = [
     description:
       "Introducing FarmMate, a robust and user-friendly Farmers Management System built on the Django framework. FarmMate is designed to streamline and optimize the management of agricultural activities, providing farmers with powerful tools to enhance productivity and decision-making.",
     image:
-      "https://drive.google.com/file/d/1wvzvR0JsJHr_AAeDCQDAszxYV7wLOKAK/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/farmers.png?alt=media&token=494ce868-0166-49ba-9b07-5212b9a0f70a",
     tags: ["MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/engraya/Farmers-Management-System",
@@ -499,7 +499,7 @@ export const projects = [
     description:
       "Introducing our cutting-edge Employee Report System app, a robust solution designed to streamline and enhance workforce management. This feature-rich application empowers businesses to efficiently manage employee information, performance evaluations, and reporting in a seamless digital environment.",
     image:
-      "https://drive.google.com/file/d/1mnnGsgdqmFI-tQTxqr03wkQGGCO05XW4/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/report.png?alt=media&token=652444fb-ed71-4fc0-b74d-a11947cb2566",
     tags: ["MongoDb", "Node Js", "Express Js", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Employee-Report-System",
@@ -511,7 +511,7 @@ export const projects = [
     description:
       "Discover a dating and consultancy experience like no other. Audrey-Sam-Amore-Consult goes beyond traditional matchmaking, using advanced algorithms to connect like-minded individuals based on compatibility, interests, and values. Say goodbye to swiping and hello to genuine connections.",
     image:
-      "https://drive.google.com/file/d/1WO4YknQJH0ktIk3oQbps7U2dsqWgVY69/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/audre.png?alt=media&token=9a1bb6a5-5d68-4690-a109-8efc5f3c89a5",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Audrey-Sam-Amore-Consultancy",
@@ -523,7 +523,7 @@ export const projects = [
     description:
       "Stay ahead of the curve with our latest news app,newsRedirect. This cutting-edge application brings you a seamless and immersive news experience like never before.",
     image:
-      "https://drive.google.com/file/d/1bC-djzHrqy539KxxNrrzo8JUxYmsxYOd/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/news.png?alt=media&token=034045ec-7344-4761-8e91-8b9aeea2303d",
     tags: ["MongoDb", "Node Js", "Express Js", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/newsRedirect",
@@ -535,7 +535,7 @@ export const projects = [
     description:
       "Introducing Afan-Marketing-app, a revolutionary marketing app that brings farmers and buyers together in a seamless e-commerce experience! This innovative platform empowers farmers to effortlessly share their available products, while buyers can easily browse through a diverse range of fresh, locally sourced goods and place orders with just a few clicks.",
     image:
-      "https://drive.google.com/file/d/1DrVXRhCNcTzlRFk7kDObmiIxOhQUuDkW/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/afan.png?alt=media&token=10a24e38-ca8f-4bd7-9d16-096e86605498",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Afan-Marketing-app",
@@ -547,7 +547,7 @@ export const projects = [
     description:
       "Explore the cinematic world with our Movie Preview App, a sleek and user-friendly application built using ReactJS and powered by the OMDB API. Immerse yourself in the magic of movies by easily searching for your favorite films, discovering new releases, and getting comprehensive information about each title.",
     image:
-      "https://drive.google.com/file/d/1j3iP7tp8SIkGbqAr6uDagXcqHsDriYds/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/movies.png?alt=media&token=409dba60-12d3-46ec-a0f3-81ce1b243f83",
     tags: ["React Js", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/engraya/coolMovies-app",
@@ -559,7 +559,7 @@ export const projects = [
     description:
       "Embark on a meteorological journey with web weatherApp!, my latest ReactJS masterpiece! 🚀 Immerse yourself in a visually stunning and user-friendly weather experience, powered by real-time data from OpenWeather API.",
     image:
-      "https://drive.google.com/file/d/1mFymxTQxSeI2URrwsm-0pLX8nzYCFaJQ/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/weatherapp.png?alt=media&token=09f014e5-b4a3-4844-b08b-811b29606d95",
     tags: ["React Js", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/engraya/web-weatherApp",
@@ -571,7 +571,7 @@ export const projects = [
     description:
       "A cutting-edge chatroom app built with ReactJS and powered by ChatEngine API! 🌐💬, Imagine a space where instant communication meets seamless file sharing. With this app, I've created a virtual haven for myself and my friends😂—Lawan, Usman, Muhammad, Kalifa, and Abubakar—to connect, chat, and exchange files effortlessly.",
     image:
-      "https://drive.google.com/file/d/1hCCnIjGfzYriUPlql1fL1_7Mw_wKVWiQ/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/realtimecharrooms.png?alt=media&token=b986ccd1-00e9-4e01-ba27-959eee8ed860",
     tags: ["React Js", "Node Js", "Express Js", "chatEngine.io"],
     category: "web app",
     github: "https://github.com/engraya/realTime-chatRooms",
@@ -591,21 +591,21 @@ export const TimeLineData = [
 export const memberships = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/16rTCSntPgrHhgqIi27Biolz5RzVHpDkK/view?usp=drive_link",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/NSE%20Membership_1.png?alt=media&token=a6c15560-eba1-4dd8-8353-82230087a533",
     membershipTitle: "Member - Nigerian Society of Engineers (GMNSE)",
     membershipBody: "Nigerian Society of Engineers - NSE",
     date: "December 2022",
     membershipID: "G70981",
-    doc: "https://drive.google.com/file/d/16rTCSntPgrHhgqIi27Biolz5RzVHpDkK/view?usp=drive_link",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/NSE%20Membership_1.png?alt=media&token=a6c15560-eba1-4dd8-8353-82230087a533",
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1QAOUxBNwPFQsfxjuJ8KApM8IgEV7PTvJ/view?usp=drive_link",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/IAENG_membership_286769_1.jpg?alt=media&token=6316106a-8aed-42d7-a54b-f6d617ad6b59",
     membershipTitle: "Member - International Association of Engineers (MIAENG)",
     membershipBody: "International Association of Engineers - IAENG",
     date: "June 2021",
     membershipID: "286769",
-    doc: "https://drive.google.com/file/d/1QAOUxBNwPFQsfxjuJ8KApM8IgEV7PTvJ/view?usp=drive_link",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/IAENG_membership_286769_1.jpg?alt=media&token=6316106a-8aed-42d7-a54b-f6d617ad6b59",
   },
 
 ];
@@ -618,7 +618,7 @@ export const certificates = [
     date: "2020",
     issuingBody: "International Rescue Commitee",
     image:
-      "https://drive.google.com/file/d/1DSE9JKTNHw5SgyltcXjovkogY6YCX9lU/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Data%20Analysis%20and%20Action%20Planning_1.jpg?alt=media&token=7c826a07-1429-4d90-89f6-166783e4115a",
   },
     {
     id: 1,
@@ -626,56 +626,56 @@ export const certificates = [
     date: "2021",
     issuingBody: "Grovo",
     image:
-      "https://drive.google.com/file/d/1IZsmFf7juKpWZwG8p-z7Ys3Y1a1Ic1L-/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Digital%20etiquette%20fundermentals_1.jpg?alt=media&token=9f7cca8c-c887-44cb-93de-07f8c7be09a2",
   },  {
     id: 2,
     title: "Jobberman soft skills training",
     date: "2020",
     issuingBody: "Jobberman",
     image:
-      "https://drive.google.com/file/d/1pXBtO87y7gLwU0zWDP0-7ROfHa3ODB_B/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/JOBBERMAN%20CERTIFICATE_1.jpg?alt=media&token=1daa9b70-0c69-4648-98ea-0827287b6841",
   },  {
     id: 3,
     title: "Personal Safety and Security certificate",
     date: "2020",
     issuingBody: "Save the Children",
     image:
-      "https://drive.google.com/file/d/1y71rB38CkMfDzGhSNfqL4zVPo7EFxfUu/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Personal%20Safety%20and%20Security%20Certificate_1.jpg?alt=media&token=c2900c63-a517-4461-8a7b-2ce20e56afb2",
   },  {
     id: 4,
     title: "Proposal writing",
     date: "2020",
     issuingBody: "Conerstone OnDemand Foundation",
     image:
-      "https://drive.google.com/file/d/1TwwysVckCz4j-D_u0vtJJCbhdQb8XGor/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Proposal%20Writing_1.jpg?alt=media&token=3cebbca1-1cad-4062-8b52-7ca53d1e0a47",
   },  {
     id: 5,
     title: "Project Management Essentials",
     date: "2022",
     issuingBody: "Conerstone OnDemand Foundation",
     image:
-      "https://drive.google.com/file/d/1iXIG8NPPfdI_CcQ7xtzQmz3VnZ8lo9Gk/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/PROJECT%20MANAGEMENT%20ESSENTIALS%20CERTIFICATE_1.png?alt=media&token=5f3c37e4-b43e-4c0d-9908-6f2cb7fceab9",
   },  {
     id: 6,
     title: "Qualitative Data Analysis",
     date: "2020",
     issuingBody: "Conerstone OnDemand Foundation",
     image:
-      "https://drive.google.com/file/d/1aKOrTW7-SX41JZ2HQ07nDHLkITwg8xxs/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Qualitative%20Data%20Analysis_1.jpg?alt=media&token=94ff88f4-d305-4d7a-ae87-028a3b780ec6",
   },  {
     id: 7,
     title: "Training in Digital Marketing",
     date: "2023",
     issuingBody: "GaoTek.Inc",
     image:
-      "https://drive.google.com/file/d/1yCYRlMEGZufioBW5__0O863jF1avt0jO/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/CERTIFICATE%20OF%20TRAINING%20ON%20DIGITAL%20MARKETING-1_1.png?alt=media&token=43be7908-3fbe-4673-aa9f-52b1d785bc7a",
   },  {
     id: 8,
     title: "Training in Human Resources",
     date: "2023",
     issuingBody: "GaoTek.Inc",
     image:
-      "https://drive.google.com/file/d/1cfeZB2F_ztbE26NAfAPWjlt9P5z40BBm/view?usp=drive_link",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/CERTIFICATE%20OF%20TRAINING%20ON%20HUMAN%20RESOURCES-1_1.png?alt=media&token=f0dfe0e2-f2d8-4b9b-aa40-b42ee3030ea6",
   },
 
 ];
