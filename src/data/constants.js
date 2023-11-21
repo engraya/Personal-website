@@ -577,6 +577,19 @@ export const projects = [
     github: "https://github.com/engraya/realTime-chatRooms",
     webapp: "https://github.com/engraya/realTime-chatRooms",
   },
+  {
+    id: 22,
+    title: "cryptoCoin GPT",
+    description:
+      "Explore detailed information on a wide range of coins, from market capitalization to trading volume. Make informed decisions with ease, Stay ahead of the game with live prices, trends, and market updates for your favorite cryptocurrencies. Watch your investments like never before!",
+    image:
+      "",
+    tags: ["React Js", "Node Js", "Express Js", "chatEngine.io"],
+    category: "web app",
+    github: "https://github.com/engraya/crypto-Coin-GP",
+    webapp: "https://github.com/engraya/realTime-chatRooms",
+  },
+
 
 ];
 
