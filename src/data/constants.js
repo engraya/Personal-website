@@ -583,22 +583,18 @@ export const projects = [
     description:
       "Explore detailed information on a wide range of coins, from market capitalization to trading volume. Make informed decisions with ease, Stay ahead of the game with live prices, trends, and market updates for your favorite cryptocurrencies. Watch your investments like never before!",
     image:
-      "",
-    tags: ["React Js", "Node Js", "Express Js", "chatEngine.io"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1214).png?alt=media&token=f240ba82-0db8-45e1-8316-7f4c9b3411b8",
+    tags: ["React Js", "TailwindCSS"],
     category: "web app",
-    github: "https://github.com/engraya/crypto-Coin-GP",
-    webapp: "https://github.com/engraya/realTime-chatRooms",
+    github: "https://github.com/engraya/crypto-Coin-GPT",
+    webapp: "https://cryptocoingpt.vercel.app/",
   },
 
 
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2022, text: "Started my journey" },
 ];
 
 export const memberships = [
