@@ -589,6 +589,18 @@ export const projects = [
     github: "https://github.com/engraya/crypto-Coin-GPT",
     webapp: "https://cryptocoingpt.vercel.app/",
   },
+    {
+    id: 23,
+    title: "stripeProduct checkout",
+    description:
+      "Designed for simplicity and efficiency, stripeProduct checkout empowers businesses to provide customers with a hassle-free online shopping experience. Whether you're a small business owner or a developer looking to enhance your e-commerce projects, stripeProduct checkout is your go-to solution for a smooth and secure checkout process.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1223).png?alt=media&token=d226b970-f01b-482c-8c4d-2875caaabfdf",
+    tags: ["React Js", "React Bootstrap", "Stripe API"],
+    category: "web app",
+    github: "https://github.com/engraya/stripe-product-checkout",
+    webapp: "https://github.com/engraya/stripe-product-checkout",
+  },
 
 
 ];
