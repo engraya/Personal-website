@@ -511,7 +511,7 @@ export const projects = [
     description:
       "Discover a dating and consultancy experience like no other. Audrey-Sam-Amore-Consult goes beyond traditional matchmaking, using advanced algorithms to connect like-minded individuals based on compatibility, interests, and values. Say goodbye to swiping and hello to genuine connections.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/audre.png?alt=media&token=9a1bb6a5-5d68-4690-a109-8efc5f3c89a5",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1227).png?alt=media&token=5d8b9bec-513b-4ea0-a1c0-639eb49c8ec8",
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Audrey-Sam-Amore-Consultancy",
