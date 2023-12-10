@@ -119,6 +119,8 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.instagram} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.whatsapp} target="display"><WhatsAppIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.mail} target="display"><MailOutlineRounded /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2023 engrahmadaya. All rights reserved.

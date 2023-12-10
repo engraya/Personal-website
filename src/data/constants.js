@@ -16,6 +16,8 @@ export const Bio = {
   instagram: "https://www.instagram.com/aya2685/",
   facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/",
   showcase: "https://www.showwcase.com/engraya",
+  whatsapp: +2348149087802,
+  mail: "engrahmadaya@gmail.com"
 };
 
 export const skills = [
