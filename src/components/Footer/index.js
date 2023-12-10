@@ -101,7 +101,8 @@ function Footer() {
       <FooterWrapper>
         <Logo>Ahmad Yakubu Ahmad</Logo>
         <subLogo>engrahmadaya@gmail.com</subLogo>
-        <subLogo>+2348149087802</subLogo>
+        <subLogo>ahmadyakubuaya@gmail.com</subLogo>
+        <subLogo>Phone/Whatsapp : +234-8149087802</subLogo>
         <Nav>
           <NavLink href="/">Home</NavLink>
           <NavLink href="#about">About</NavLink>
