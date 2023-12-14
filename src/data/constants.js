@@ -579,6 +579,18 @@ export const projects = [
     github: "https://github.com/engraya/stripe-product-checkout",
     webapp: "https://github.com/engraya/stripe-product-checkout",
   },
+  {
+    id: 22,
+    title: "global escapades",
+    description:
+      "Embark on a virtual journey around the globe with 'Global Escapades: Your Passport to Beauty' 🌍✈️. This open-source fullstack React app takes you on a visual adventure, showcasing the most breathtaking places our planet has to offer. From iconic landmarks to hidden gems, explore the world from the comfort of your screen.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1248).png?alt=media&token=867af320-ae82-4e65-9c2a-8cdc4b4f0277",
+    tags: ["React Js", "TailwindCSS", "Firebase"],
+    category: "web app",
+    github: "https://github.com/engraya/global-escapades",
+    webapp: "https://global-escapades.vercel.app/",
+  },
 
 
 ];
