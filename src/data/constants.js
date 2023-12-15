@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a highly skilled and motivated individual with a solid analytical and knowledge of engineering practices, enthusiastic, multitasker with exceptional skills, and function well in high-pressure work environments. I have a proven track record of delivering quality work and building solid relationships with clients. My adaptability, problem-solving skills, and ability to work effectively in various environments make me an asset to any team looking to build or improve their software products.",
+    "Results-driven Fullstack Developer with a proven track record of delivering high-quality software solutions. Experienced in full software development life cycle, from concept to delivery. Adept at collaborating with cross-functional teams and building strong client relationships. Skilled in problem-solving and adapting to dynamic work environments. Passionate about staying updated on emerging technologies to drive innovation. Excellent communication skills and a commitment to continuous learning. Eager to contribute to dynamic projects and make a positive impact.",
   github: "https://github.com/engraya",
   resume:
     "https://drive.google.com/file/d/1zJ1jzyYfilHAckEbm1SiwWZ6_BwwCBIm/view?usp=drive_link",
