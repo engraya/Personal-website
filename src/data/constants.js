@@ -14,7 +14,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/ahmad-yakubu-ahmad-miaeng-gmnse-41520b121/",
   twitter: "https://twitter.com/ahmadyakubuaya",
   instagram: "https://www.instagram.com/aya2685/",
-  facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/"
+  facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/",
   showcase: "https://www.showwcase.com/engraya",
   whatsapp: +2348149087802,
   mail: "engrahmadaya@gmail.com"
@@ -314,7 +314,6 @@ export const education = [
 ];
 
 export const projects = [
-
  
     {
     id: 0,
