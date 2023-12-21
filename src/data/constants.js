@@ -14,7 +14,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/ahmad-yakubu-ahmad-miaeng-gmnse-41520b121/",
   twitter: "https://twitter.com/ahmadyakubuaya",
   instagram: "https://www.instagram.com/aya2685/",
-  facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/",
+  facebook: "https://web.facebook.com/ahmad.yakubuahmad.7/"
   showcase: "https://www.showwcase.com/engraya",
   whatsapp: +2348149087802,
   mail: "engrahmadaya@gmail.com"
@@ -315,56 +315,9 @@ export const education = [
 
 export const projects = [
 
-  {
+ 
+    {
     id: 0,
-    title: "Todo App",
-    description:
-      "A comprehensive webapp that fosters efficiency, organization, and goal achievement. Its impact extends beyond the digital realm, positively influencing users' personal and professional lives by instilling discipline, reducing stress, and enhancing overall productivity. This application provides users with a systematic way to list, prioritize, and track their tasks, offering several key benefits:",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(248).png?alt=media&token=212b0105-6da2-458c-b79f-60e386460946",
-    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/engraya/Django-ToDoApp-Project",
-    webapp: "https://github.com/engraya/Django-ToDoApp-Project",
-  },
-    {
-    id: 1,
-    title: "Web Calculator",
-    description:
-      "Dynamic Operations From basic arithmetic to more complex mathematical operations, our web calculator is equipped to handle a variety of calculations with ease.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(533).png?alt=media&token=68e027a3-8938-43ae-a141-2b80f9b7c5e5",
-    tags:  ["HTML", "CSS", "JavaScript"],
-    category: "web app",
-    github: "https://github.com/engraya/My-Web-Calculator",
-    webapp: "https://github.com/engraya/My-Web-Calculator",
-  },
-    {
-    id: 2,
-    title: "Web Dictionary",
-    description:
-      "Explore the beauty of language with our Interactive Dictionary Web App! This project, powered by Django, is a culmination of a passion for words and the seamless elegance of web development. Designed for both language enthusiasts and casual users, our dictionary offers a user-friendly interface and a wealth of features",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/dictionary.png?alt=media&token=dc7bdab8-7aaf-499e-b13f-b2d084b5b777",
-    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/engraya/mySimple-web_Dictionary",
-    webapp: "https://github.com/engraya/mySimple-web_Dictionary",
-  },
-    {
-    id: 3,
-    title: "Grand API WebApp",
-    description:
-      "A cutting-edge web application that seamlessly integrates the robust Iterface with four powerful API functionalities, designed to enhance user experience and streamline data management.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/grand.png?alt=media&token=e2ef3b9d-1948-4667-ac58-25c2f743926e",
-    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/engraya/Grand_API_webApp",
-    webapp: "https://github.com/engraya/Grand_API_webApp",
-  },
-    {
-    id: 4,
     title: "Mandera Mart Ecommerce App",
     description:
       "Welcome to Mandera Mart Ecommerce, an exquisite online shopping experience meticulously crafted with the power of Django. Our e-commerce platform seamlessly blends sophistication with user-friendly functionality, providing a delightful journey for both shoppers and merchants alike.",
@@ -376,7 +329,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Mandera-Mart-Ecommerce-Project",
   },
     {
-    id: 5,
+    id: 1,
     title: "West-Africa Travel Gallery",
     description:
       "Embark on a visual journey through the enchanting landscapes, vibrant cultures, and diverse traditions of West Africa with our meticulously crafted Travel Gallery App. Powered by Django, this project is a testament to the beauty and richness of the region.",
@@ -387,20 +340,9 @@ export const projects = [
     github: "https://github.com/engraya/West-Africa-Travel-Gallery",
     webapp: "https://github.com/engraya/West-Africa-Travel-Gallery",
   },
+
     {
-    id: 6,
-    title: "smartBot App",
-    description:
-      "web smartBot is a cutting-edge Django-powered smart bot application designed to make your life easier and more efficient. This innovative virtual assistant combines powerful AI capabilities with a sleek and user-friendly interface, providing a seamless experience for users",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/websmart.png?alt=media&token=e5914a29-968a-4021-ad08-bdddc9ccd37b",
-    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/engraya/webSmart-Bot",
-    webapp: "https://github.com/engraya/webSmart-Bot",
-  },
-    {
-    id: 7,
+    id: 2,
     title: "PhotoStore",
     description:
       "Introducing PhotoStore, a sleek and intuitive photo management solution built on the Django framework. This project is designed to provide a seamless experience for users to showcase and organize their photo collections effortlessly.",
@@ -412,7 +354,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Photo-Store",
   },
     {
-    id: 8,
+    id: 3,
     title: "Drivers Management System",
     description:
       "Experience seamless control over your fleet with our Driver Management System App built on Django. This robust application empowers you to efficiently manage and monitor your drivers, ensuring optimal performance and safety.",
@@ -423,20 +365,9 @@ export const projects = [
     github: "https://github.com/engraya/Drivers-Management-System",
     webapp: "https://github.com/engraya/Drivers-Management-System",
   },
+
     {
-    id: 9,
-    title: "Todo List Pro",
-    description:
-      "Elevate your productivity with the Django Todo List Pro, a feature-rich task management application designed to streamline your daily workflow. This polished and intuitive app, built on the Django framework, combines a clean user interface with powerful functionalities to help you stay organized and focused.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/todopro.png?alt=media&token=4b0b0679-b8e1-47fe-bd66-2a0de4d1dfcb",
-    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/engraya/Todo-List-Pro",
-    webapp: "https://github.com/engraya/Todo-List-Pro",
-  },
-    {
-    id: 10,
+    id: 4,
     title: "Web4Games",
     description:
       "Embark on a thrilling gaming experience with Web4Games, a dynamic web application that brings the excitement of [briefly describe the genre or main theme of the game] to your fingertips. Developed using Django, this project seamlessly combines a captivating user interface with robust functionality to deliver a gaming adventure like no other.",
@@ -448,7 +379,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Web4Games/",
   },
     {
-    id: 11,
+    id: 5,
     title: "Visage - Video Conferencing",
     description:
       "Experience the future of online interaction with our cutting-edge Real-Time Video Hub. This Django-powered web application brings seamless video streaming to your fingertips, providing a dynamic and interactive experience for users.",
@@ -460,7 +391,7 @@ export const projects = [
     webapp: " https://github.com/engraya/Visage",
   },
     {
-    id: 12,
+    id: 6,
     title: "Farmers Management System",
     description:
       "Introducing FarmMate, a robust and user-friendly Farmers Management System built on the Django framework. FarmMate is designed to streamline and optimize the management of agricultural activities, providing farmers with powerful tools to enhance productivity and decision-making.",
@@ -472,7 +403,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Farmers-Management-System",
   },
     {
-    id: 13,
+    id: 7,
     title: "Employee Report System",
     description:
       "Introducing our cutting-edge Employee Report System app, a robust solution designed to streamline and enhance workforce management. This feature-rich application empowers businesses to efficiently manage employee information, performance evaluations, and reporting in a seamless digital environment.",
@@ -484,7 +415,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Employee-Report-System",
   },
     {
-    id: 14,
+    id: 8,
     title: "Audrey Sam Amore Consult",
     description:
       "Discover a dating and consultancy experience like no other. Audrey-Sam-Amore-Consult goes beyond traditional matchmaking, using advanced algorithms to connect like-minded individuals based on compatibility, interests, and values. Say goodbye to swiping and hello to genuine connections.",
@@ -496,7 +427,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Audrey-Sam-Amore-Consultancy",
   },
     {
-    id: 15,
+    id: 9,
     title: "newsRedirect",
     description:
       "Stay ahead of the curve with our latest news app,newsRedirect. This cutting-edge application brings you a seamless and immersive news experience like never before.",
@@ -508,7 +439,7 @@ export const projects = [
     webapp: "https://github.com/engraya/newsRedirect",
   },
     {
-    id: 16,
+    id: 10,
     title: "Afan Commodity Marketing App",
     description:
       "Introducing Afan-Marketing-app, a revolutionary marketing app that brings farmers and buyers together in a seamless e-commerce experience! This innovative platform empowers farmers to effortlessly share their available products, while buyers can easily browse through a diverse range of fresh, locally sourced goods and place orders with just a few clicks.",
@@ -520,7 +451,7 @@ export const projects = [
     webapp: "https://github.com/engraya/Afan-Marketing-app",
   },
     {
-    id: 17,
+    id: 11,
     title: "coolMovies",
     description:
       "Explore the cinematic world with our Movie Preview App, a sleek and user-friendly application built using ReactJS and powered by the OMDB API. Immerse yourself in the magic of movies by easily searching for your favorite films, discovering new releases, and getting comprehensive information about each title.",
@@ -532,7 +463,7 @@ export const projects = [
     webapp: "https://engraya.github.io/coolMovies-app",
   },
     {
-    id: 18,
+    id: 12,
     title: "web weatherApp",
     description:
       "Embark on a meteorological journey with web weatherApp!, my latest ReactJS masterpiece! 🚀 Immerse yourself in a visually stunning and user-friendly weather experience, powered by real-time data from OpenWeather API.",
@@ -544,7 +475,7 @@ export const projects = [
     webapp: "https://engraya.github.io/web-weatherApp/",
   },
       {
-    id: 19,
+    id: 13,
     title: "realTime-chatRooms",
     description:
       "A cutting-edge chatroom app built with ReactJS and powered by ChatEngine API! 🌐💬, Imagine a space where instant communication meets seamless file sharing. With this app, I've created a virtual haven for myself and my friends😂—Lawan, Usman, Muhammad, Kalifa, and Abubakar—to connect, chat, and exchange files effortlessly.",
@@ -556,7 +487,7 @@ export const projects = [
     webapp: "https://github.com/engraya/realTime-chatRooms",
   },
   {
-    id: 20,
+    id: 14,
     title: "cryptoCoin GPT",
     description:
       "Explore detailed information on a wide range of coins, from market capitalization to trading volume. Make informed decisions with ease, Stay ahead of the game with live prices, trends, and market updates for your favorite cryptocurrencies. Watch your investments like never before!",
@@ -568,7 +499,7 @@ export const projects = [
     webapp: "https://cryptocoingpt.vercel.app/",
   },
     {
-    id: 21,
+    id: 15,
     title: "stripeProduct checkout",
     description:
       "Designed for simplicity and efficiency, stripeProduct checkout empowers businesses to provide customers with a hassle-free online shopping experience. Whether you're a small business owner or a developer looking to enhance your e-commerce projects, stripeProduct checkout is your go-to solution for a smooth and secure checkout process.",
@@ -580,7 +511,7 @@ export const projects = [
     webapp: "https://github.com/engraya/stripe-product-checkout",
   },
   {
-    id: 22,
+    id: 16,
     title: "global escapades",
     description:
       "Embark on a virtual journey around the globe with 'Global Escapades: Your Passport to Beauty' 🌍✈️. This open-source fullstack React app takes you on a visual adventure, showcasing the most breathtaking places our planet has to offer. From iconic landmarks to hidden gems, explore the world from the comfort of your screen.",
