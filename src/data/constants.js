@@ -521,6 +521,18 @@ export const projects = [
     github: "https://github.com/engraya/global-escapades",
     webapp: "https://global-escapades.vercel.app/",
   },
+  {
+    id: 17,
+    title: " Delectable",
+    description:
+      "Embark on a gastronomic journey with Delectable – the ultimate food lover's paradise! 🌍🍽️ Uncover a world of delicious recipes, culinary wonders, and mouthwatering delights from every corner of the globe. Here's what makes Delectable your go-to app for all things food:",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1295).png?alt=media&token=d1a8e488-34c5-416b-82f1-5151339f75da",
+    tags: ["React Js", "TailwindCSS", "Firebase"],
+    category: "web app",
+    github: "https://github.com/engraya/delectable-food-webapp",
+    webapp: "https://delectable.vercel.app/",
+  },
 
 
 ];
