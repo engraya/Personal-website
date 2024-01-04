@@ -527,7 +527,7 @@ export const projects = [
     description:
       "Embark on a gastronomic journey with Delectable – the ultimate food lover's paradise! 🌍🍽️ Uncover a world of delicious recipes, culinary wonders, and mouthwatering delights from every corner of the globe. Here's what makes Delectable your go-to app for all things food:",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1295).png?alt=media&token=d1a8e488-34c5-416b-82f1-5151339f75da",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1294).png?alt=media&token=682a8d26-f9fe-4814-bfe9-8d8c031896ae",
     tags: ["React Js", "TailwindCSS", "Firebase"],
     category: "web app",
     github: "https://github.com/engraya/delectable-food-webapp",
