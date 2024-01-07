@@ -423,7 +423,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Bootstrap"],
     category: "web app",
     github: "https://github.com/engraya/Audrey-Sam-Amore-Consultancy",
-    webapp: "https://github.com/engraya/Audrey-Sam-Amore-Consultancy",
+    webapp: "https://audresamamore.vercel.app/",
   },
     {
     id: 9,
