@@ -426,7 +426,7 @@ export const projects = [
     webapp: "https://audresamamore.vercel.app/",
   },
     {
-    id: 9,
+    id: 9
     title: "newsRedirect",
     description:
       "Stay ahead of the curve with our latest news app,newsRedirect. This cutting-edge application brings you a seamless and immersive news experience like never before.",
@@ -532,6 +532,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/engraya/delectable-food-webapp",
     webapp: "https://delectable.vercel.app/",
+  },
+  {
+    id: 18,
+    title: "Midin Web Project",
+    description:
+      "MULTI INTERVENTION DEVELOPMENT INITIATIVES, (MIDIN) a dedicated humanitarian organization committed to creating positive change in communities.The goal of this project was to develop a user-friendly and informative website that reflects the organization's values and highlights its various initiatives.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-storage-cdfc1.appspot.com/o/Screenshot%20(1313).png?alt=media&token=e05fb9dd-9f5e-4c72-8590-d63ad91824ce",
+    tags: ["React Js"],
+    category: "web app",
+    github: "https://github.com/engraya/MIDIN-Org-Web-Project",
+    webapp: "https://midin.vercel.app/",
   },
 
 
