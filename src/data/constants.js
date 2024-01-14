@@ -426,7 +426,7 @@ export const projects = [
     webapp: "https://audresamamore.vercel.app/",
   },
     {
-    id: 9
+    id: 9,
     title: "newsRedirect",
     description:
       "Stay ahead of the curve with our latest news app,newsRedirect. This cutting-edge application brings you a seamless and immersive news experience like never before.",
@@ -544,7 +544,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/engraya/MIDIN-Org-Web-Project",
     webapp: "https://midin.vercel.app/",
-  },
+  }
 
 
 ];
